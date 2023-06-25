@@ -1,5 +1,6 @@
 import {
   Button,
+  Center,
   HStack,
   Image,
   List,
